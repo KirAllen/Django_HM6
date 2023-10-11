@@ -1,0 +1,8 @@
+/app111000/
+/app2/
+/media/
+/static/
+*.sqlite3
+*.log
+*.pyc
+
